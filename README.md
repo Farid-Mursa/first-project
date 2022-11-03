@@ -1,3 +1,4 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Farid</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Code akademiya tələbəsi</h3>
+![Image alt]https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic-assets.codecademy.com%2FCourses%2FLearn-Redux%2Fmatching-game%2Fcodecademy_logo.png&imgrefurl=https%3A%2F%2Fwww.codecademy.com%2F&tbnid=Qjqq7EFEKLuAKM&vet=12ahUKEwjYlI-v7ZH7AhULZhoKHRzJCKgQMygAegUIARC8AQ..i&docid=1nxLl9E7OVp0iM&w=2480&h=536&itg=1&q=codecademy%20logo&ved=2ahUKEwjYlI-v7ZH7AhULZhoKHRzJCKgQMygAegUIARC8AQ
