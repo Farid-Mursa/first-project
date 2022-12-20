@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+hr {
+    font-size: 25px;
+}
+
+div {
+    border-bottom: 5px solid #000;
+    margin: 0px 5px;
+}
+
+.parag {
+    background-color: #000;
+    color: white;
+    float: right;
+    width: 85px;
+}
+
+.noneborder {
+    border: none;
+}
+
+.text {
+    text-transform: uppercase;
+}
+
+div {
+    padding: 7px 15px;
+}
+
+.first h1, .first p {
+    text-align: right;
+}
+
+.first p {
+    font-style: italic;
+}
+
+.second table {
+    margin: 15px;
+    line-height: 20px;
+}
+
+.third p {
+    font-style: italic;
+    margin: 5px 0;
+}
+
+.third .third-p {
+    margin-left: 15px;
+}
+
+table {
+    padding: 10px;
+}
+
+.last-p {
+    margin-left: 12px;
+    padding: 7px 0;
+}
+td:nth-of-type(1){
+    text-align: left;
+}
+td:nth-of-type(2){
+    text-align: right;
+}
+table{
+    width: 250px;
+}
