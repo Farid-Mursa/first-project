@@ -1,0 +1,25 @@
+header{
+    background-color: #222222;
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    nav{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        ul{
+            display: flex;
+            align-items: center;
+            list-style: none;
+            li{
+                a{
+                    margin-left: 25px;
+                    &:hover{
+                        color: wheat;
+                    }
+                }
+            }
+        }
+    }
+}
