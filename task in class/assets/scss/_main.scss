@@ -1,0 +1,155 @@
+#cards {
+    background-color: #FFFFFF;
+
+    .container {
+        .title {
+            h2 {
+                font-size: 44px;
+            }
+
+            p {
+                font-size: 14px;
+                color: rgb(63, 62, 62);
+            }
+        }
+
+        .row {
+            padding-top: 50px;
+            padding-bottom: 50px;
+
+            .popular {
+                background-color: #FBFAF9;
+                width: 950px;
+                border: 1px solid rgb(156, 154, 154);
+                padding: 30px;
+                border-radius: 20px;
+
+                .text {
+                    .fire{
+                        margin-left: 24px;
+                        span{
+                            color: red;
+                        }
+                    }
+                    small {
+                        &::before {
+                            content: "\1F525";
+                            color: red;
+                            margin-right: 5px;
+                        }
+                    }
+                }
+
+                .image {
+                    width: 277px;
+
+                    img {
+                        width: 100%;
+                    }
+                }
+            }
+        }
+    }
+}
+#installment {
+    .container {
+        .row {
+            .card-items {
+                margin-top: 100px;
+            
+                padding-left: 15px;
+                height: 270px;
+                padding-right: 15px;
+                border-radius: 10px;
+                border: 1px solid rgba(156, 154, 154, 0.2);
+
+                .card-text-button {
+                    margin-top: 70px;
+
+                    .card-text {
+                        font-size: 18px;
+                    }
+
+                    .card-list {
+                        ul {
+                            margin-top: 35px;
+                            list-style: none;
+
+                            li {
+                                font-size: 14px;
+
+                                &::before {
+                                    content: "\2022";
+                                    color: red;
+                                }
+                            }
+                        }
+                    }
+                }
+
+                .image {
+                    width: 225px;
+                    position: relative;
+
+                    img {
+                        position: absolute;
+                        bottom: -65px;
+                    }
+                }
+            }
+
+            .btn-group {
+                margin-top: 25px !important;
+
+                .button1 {
+                    width: 100px !important;
+                }
+
+                .button2 {
+                    width: 140px !important;
+                }
+            }
+        }
+    }
+}
+#about {
+    padding: 25px;
+
+    .container {
+        .row {
+            .title {
+                text-align: center;
+            }
+        }
+    }
+}
+
+#chill {
+
+    background-color: #FBFAF9;
+
+    .container {
+        padding-top: 25px;
+        padding-bottom: 25px;
+
+        .row {
+            list-style: none;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-left: 30px;
+
+            a {
+                font-size: 14px;
+                line-height: 18px;
+                text-decoration: none;
+                color: black;
+            }
+
+            .campaign-link {
+                color: red;
+            }
+
+        }
+    }
+}
